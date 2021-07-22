@@ -5,7 +5,7 @@
 <img src ="tictactoe-ss.jpg" height="600" width="300">
 
 # About the App
-In this game the game starts with 'X'player and <br/>
+In this game the game starts with 'X'player and
 have the exact same rules as we have played it <br/>
 That is the first to complete a row or coloumn or <br/>
 any daigonal wins the game
