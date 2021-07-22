@@ -8,4 +8,6 @@
 In this game the game starts with 'X'player and
 have the exact same rules as we have played it <br/>
 That is the first to complete a row or coloumn or
-any daigonal wins the game
+any daigonal wins the game <br/>
+
+#### This is a user friendly, dark themed App to play with friends
